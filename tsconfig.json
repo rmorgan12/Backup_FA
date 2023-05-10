@@ -1,0 +1,9 @@
+{
+  "target": "ES6",
+  "lib": ["DOM", "ES6", "DOM.Iterable", "ScriptHost", "ES2016.Array.Include"],
+  "compilerOptions": {
+    "jsx": "react",
+    "skipLibCheck": true
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json",
+}
